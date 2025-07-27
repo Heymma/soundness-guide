@@ -5,8 +5,9 @@
 **Otherwise You Will Lose Everything**
 
 ---
-
 Discord Game Answer
+
+![photo_2025-07-27_08-32-24](https://github.com/user-attachments/assets/d1bf792e-e0c9-4365-a37b-9561d067154e)
 
 ---
 
@@ -55,6 +56,7 @@ soundness-cli generate-key --name my-key
 > **Copy And Edit The Part In Red Box Below to `my-key` reamove `< >` also and enter in codespace**
    
 !
+![photo_2025-07-27_08-32-18](https://github.com/user-attachments/assets/23c05017-86b6-4402-8589-7d6488e36ee6)
 
 
 **Wait Few Minutes Until, Status: Success**
