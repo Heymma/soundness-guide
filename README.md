@@ -1,4 +1,4 @@
-# 🧩 How To Submit Your Proof On Soundness - imp
+# 🧩 How To Submit Your Proof On Soundness
 
 **Even If You Have Lost Old Generated Private And Public Keys**
 **Make Sure To Download: Key_Store.json file which will generate ahead**
